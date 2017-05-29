@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- START xml_defaults -->
+<defaultsMap>
+    <entry>
+        <key>interval</key>
+        <value>10000</value>
+    </entry>
+    <entry>
+        <key>fastest_interval</key>
+        <value>5000</value>
+    </entry>
+</defaultsMap>
+    <!-- END xml_defaults -->

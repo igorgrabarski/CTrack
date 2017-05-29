@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "533929769590",
+    "firebase_url": "https://ctracker-e1d07.firebaseio.com",
+    "project_id": "ctracker-e1d07",
+    "storage_bucket": "ctracker-e1d07.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533929769590:android:7ef233287096448c",
+        "android_client_info": {
+          "package_name": "igorgrabarski.com.ctrack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "533929769590-7u6uas1vq1h7eg3gllf2v9uq7pvmintk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "igorgrabarski.com.ctrack",
+            "certificate_hash": "4f11ab8bd6a34b20b6f55a269efab217eceba773"
+          }
+        },
+        {
+          "client_id": "533929769590-375uf4s28facgiaccdoo0bd5224rh30l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWfwuRplcUJnpaJqphAs5baZT9E-hJEGQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "533929769590-375uf4s28facgiaccdoo0bd5224rh30l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
